@@ -11,6 +11,10 @@ img {
     height: 200px;
 }
 
+a {
+    color: #ff6b00;
+}
+
 /* Layout */
 .container {
   max-width: 1000px;
